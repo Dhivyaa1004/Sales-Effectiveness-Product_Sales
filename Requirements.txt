@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+xgboost
+streamlit
+scikit-learn==1.6.1
+imbalanced-learn
+ydata-profiling
+joblib
