@@ -426,7 +426,7 @@ color:gray;
 padding:10px;
 ">
 
-Developed with ❤️ using Streamlit & XGBoost
+Developed with ❤️ using Streamlit & Machine Learning
 
 </div>
 
